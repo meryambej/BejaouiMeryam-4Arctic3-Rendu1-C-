@@ -9,6 +9,7 @@ C:\Users\Meryam\Downloads\SqueletteExamen\Examen\Examen.Infrastructure\obj\Debug
 C:\Users\Meryam\Downloads\SqueletteExamen\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\Meryam\Downloads\SqueletteExamen\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.AssemblyInfo.cs
 C:\Users\Meryam\Downloads\SqueletteExamen\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Meryam\Downloads\SqueletteExamen\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.sourcelink.json
 C:\Users\Meryam\Downloads\SqueletteExamen\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.I.82EBB984.Up2Date
 C:\Users\Meryam\Downloads\SqueletteExamen\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.dll
 C:\Users\Meryam\Downloads\SqueletteExamen\Examen\Examen.Infrastructure\obj\Debug\net8.0\refint\Examen.Infrastructure.dll

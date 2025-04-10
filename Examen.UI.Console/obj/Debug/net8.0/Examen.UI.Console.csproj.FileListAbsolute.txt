@@ -453,6 +453,7 @@ C:\Users\Meryam\Downloads\SqueletteExamen\Examen\Examen.UI.Console\obj\Debug\net
 C:\Users\Meryam\Downloads\SqueletteExamen\Examen\Examen.UI.Console\obj\Debug\net8.0\Examen.UI.Console.AssemblyInfoInputs.cache
 C:\Users\Meryam\Downloads\SqueletteExamen\Examen\Examen.UI.Console\obj\Debug\net8.0\Examen.UI.Console.AssemblyInfo.cs
 C:\Users\Meryam\Downloads\SqueletteExamen\Examen\Examen.UI.Console\obj\Debug\net8.0\Examen.UI.Console.csproj.CoreCompileInputs.cache
+C:\Users\Meryam\Downloads\SqueletteExamen\Examen\Examen.UI.Console\obj\Debug\net8.0\Examen.UI.Console.sourcelink.json
 C:\Users\Meryam\Downloads\SqueletteExamen\Examen\Examen.UI.Console\obj\Debug\net8.0\Examen.U.72B4B6C8.Up2Date
 C:\Users\Meryam\Downloads\SqueletteExamen\Examen\Examen.UI.Console\obj\Debug\net8.0\Examen.UI.Console.dll
 C:\Users\Meryam\Downloads\SqueletteExamen\Examen\Examen.UI.Console\obj\Debug\net8.0\refint\Examen.UI.Console.dll
